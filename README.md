@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/onukura/gitbucket-smiles-plugin.svg?branch=master)](https://travis-ci.org/onukura/gitbucket-smiles-plugin)
 
-A GitBucket plugin for rendering smiles file.  
+A GitBucket plugin for rendering smiles file with `.smiles` extension.  
 Based on [smilesDrawer](https://doc.gdb.tools/smilesDrawer/).
 
 ## Screenshot
